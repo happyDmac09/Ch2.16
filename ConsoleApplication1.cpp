@@ -21,9 +21,9 @@ int main()
 	difference = number1 - number2;
 	quotient = number1 / number2;
 
-	std::cout << "Sum is " << sum << std::endl;
-	std::cout << "product is " << product << std::endl;
-	std::cout << "difference is " << difference << std::endl;
-	std::cout << "quotient is " << quotient << std::endl;
+	std::cout << "Sum  is " << sum << std::endl;
+	std::cout << "product  is " << product << std::endl;
+	std::cout << "difference  is " << difference << std::endl;
+	std::cout << "quotient  is " << quotient << std::endl;
 }
 
